@@ -7,3 +7,4 @@ syntax[]
 arrays are comma separated.
 ## Daily concepts 
 Day 1-created a Array intros
+created a Add to array 
