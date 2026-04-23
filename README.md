@@ -13,5 +13,4 @@ Java arrays can hold both primitive types (like int, char, boolean, etc.) and ob
 When we use arrays of primitive types, the elements are stored in contiguous locations. For non primitive types, references to items are stored at contiguous locations.
 The first element of the array is at index 0.
 =======
-README UPDATED 
->>>>>>> 86ee4dfd71f9f45ee539ff4dad5938620ff3db4b
+README UPDATED
