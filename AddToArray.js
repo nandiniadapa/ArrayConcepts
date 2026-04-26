@@ -7,4 +7,4 @@ document.getElementById("btnAddtoArray").addEventListener("click",function(){
     flowers.push(flower)
     document.getElementById("pResult").innerHTML=flowers;
     var flower=document.getElementById("txtFlower").value="";
-})
+});
