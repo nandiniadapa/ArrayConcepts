@@ -16,4 +16,4 @@ The first element of the array is at index 0
 README UPDATED
 Created a string array 
 created a wordofA
-created a mutable concepts
+created a mutable concept
