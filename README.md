@@ -15,4 +15,4 @@ The first element of the array is at index 0
 ======
 README UPDATED
 Created a string array 
-created a word with
+created a wordofA
