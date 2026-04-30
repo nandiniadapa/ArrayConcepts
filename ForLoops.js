@@ -1,8 +1,8 @@
 document.getElementById("btnsubmit").addEventListener("click",function(){
     debugger;
-    for (i=0;i<=12;i++){
+    for (i=1;i<=100;i=i+2){
         debugger;
-        console.log("nandu")
+        console.log(i)
     }
     
 })
