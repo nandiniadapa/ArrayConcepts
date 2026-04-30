@@ -1,8 +1,9 @@
 document.getElementById("btnsubmit").addEventListener("click",function(){
     debugger;
-    for (i=1;i<=100;i=i+2){
+    var number=Number(document.getElementById("txtnumber").value);
+    for (i=1;i<=number;i=i++){
         debugger;
         console.log(i)
     }
     
-})
+});
