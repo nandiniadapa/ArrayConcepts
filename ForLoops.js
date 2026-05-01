@@ -45,4 +45,12 @@ document.getElementById("btnodd").addEventListener("click",function(){
     }
 });
 
+document.getElementById("btnDecrease").addEventListener("click",function(){
+    debugger;
+    var number=Number(document.getElementById("txtnumber").value);
+    for (i=100;i>=number;i=i-2){
+        debugger;
+        console.log(i)
+    }
+});
 
