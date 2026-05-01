@@ -1,5 +1,5 @@
-var cars =[["BMW","X5","2021"],["Suzuki","Beleno","2022"],["Ferarri","G600","2020"],["Jaguar","e-Pace","2023"],
-              ["Mahindra","XUV500","2024"]];
+var cars =[["Nandini","X5","2021"],["hima","Beleno","2022"],["sony","G600","2020"],["likitha","e-Pace","2023"],
+              ["sowji","XUV500","2024"]];
 
 
 document.getElementById("btnArrayToArray").addEventListener("click", function () {
