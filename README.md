@@ -16,5 +16,5 @@ The first element of the array is at index 0
 string is a group of characters
 string array 
 string array mutable html 
-string array triangle 
+string array triangle html
 words of A
