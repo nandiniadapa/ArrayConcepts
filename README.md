@@ -15,6 +15,6 @@ The first element of the array is at index 0
 # string concepts-
 string is a group of characters
 string array 
-string array mutable
-string array triangle
+string array mutable html 
+string array triangle 
 words of A
