@@ -17,4 +17,4 @@ string is a group of characters
 string array 
 string array mutable
 string array triangle
-words of a
+words of A
