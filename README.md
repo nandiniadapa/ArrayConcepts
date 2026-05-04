@@ -13,8 +13,8 @@ Java arrays can hold both primitive types (like int, char, boolean, etc.) and ob
 When we use arrays of primitive types, the elements are stored in contiguous locations. For non primitive types, references to items are stored at contiguous locations.
 The first element of the array is at index 0
 # string concepts-
-string is a group of characters
-string array 
-string array mutable html 
-string array triangle html
+ string is a group of characters
+ .string array 
+ string array mutable html 
+ .string array triangle html
 words of A
