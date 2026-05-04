@@ -17,4 +17,4 @@ The first element of the array is at index 0
  .string array 
  .string array mutable html 
  .string array triangle html
- words of A
+ .words of A
