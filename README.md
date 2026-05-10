@@ -1,6 +1,6 @@
 # ArrayConcepts-
 Array is a collection of same datatypes
-like numbers,strings,booleans,arrays,objects ,array of array ,array of objects
+like numbers,strings ,booleans,arrays,objects ,array of array ,array of objects
 Arrays [values(,)(.)].
 same data types stored in a bucket
 syntax[] 
