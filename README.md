@@ -5,6 +5,7 @@ Arrays [values(,)(.)].
 same data types stored in a bucket
 syntax[] 
 arrays are comma separated.
+created a matrix multiplications
 ## Daily concepts 
 Day 1-created a Array intros
 created a Add to array concepts
@@ -18,3 +19,4 @@ The first element of the array is at index 0
  .string array mutable html 
  .string array triangle html
  .words of A 
+ 
