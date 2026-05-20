@@ -1,7 +1,6 @@
 var cars =[["Nandini","X5","2021"],["hima","Beleno","2022"],["sony","G600","2020"],["likitha","e-Pace","2023"],
               ["sowji","XUV500","2024"]];
 
-
 document.getElementById("btnArrayToArray").addEventListener("click", function () {
     debugger;
    
