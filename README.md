@@ -6,7 +6,7 @@ same data types stored in a bucket
 syntax[] 
 arrays are comma separated.
 created a matrix multiplications
-## Daily concepts 
+## Daily conceptss
 Day 1-created a Array intros
 created a Add to array concepts
 <<<<<<<< HEAD
