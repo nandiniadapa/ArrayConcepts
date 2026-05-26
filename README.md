@@ -4,7 +4,7 @@ like numbers,strings ,booleans,arrays,objects ,array of array ,array of objects 
 Arrays [values(,)(.)].
 same data types stored in a bucket
 syntax[] 
-arrays are comma separated.
+arrays are commas separated.
 created a matrix multiplications
 ## Daily conceptss
 Day 1-created a Array intros
